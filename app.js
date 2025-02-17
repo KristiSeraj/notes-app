@@ -1,4 +1,3 @@
-const add = require('./utils');
+const getNotes = require('./notes');
 
-const sum = add(5, 6);
-console.log(sum);
+console.log(getNotes());
