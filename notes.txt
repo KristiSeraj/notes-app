@@ -1,2 +1,0 @@
-My name is KristiThis is a course of NodeJs
-This is a course of NodeJs
